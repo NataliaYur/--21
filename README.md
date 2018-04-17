@@ -14,3 +14,9 @@ Using GitHub has numerous benefits including easier collaboration with colleague
 Базовими потяттями є repository (сховище), branches (галузки, вітки), commits (записи, занесення до сховища), Pull Requests (запити завантаження).
 Сховище - місце, де можна зберігати ідеї, ресурси, провадити обговорення та обмін. Відкриті сховища є безкоштовними. Приватні сховища комерційних продуктів - платні.
 ^_^
+You’ll learn how to:
+
+Create and use a repository
+Start and manage a new branch
+Make changes to a file and push them to GitHub as commits
+Open and merge a pull request
